@@ -5,7 +5,11 @@
 <form action="" method="post">{% csrf_token %}
     <h3><strong>Choose Course</strong></h3>
     {{ form.as_p }}
-    <button type="submit", class="generate-button">submit</button>
+    {% if generated_pq %}
+    <button type="submit", class="generate-button">Regenerate</button>
+    {% else %}
+    <button type="submit", class="generate-button">Generate</button>
+    {% endif %}
 </form>
 
 
