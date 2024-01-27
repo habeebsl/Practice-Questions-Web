@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form action="" method="post">{% csrf_token %}
+    <h3><strong>Choose Course</strong></h3>
+    {{ form.as_p }}
+    <button type="submit", class="generate-button">submit</button>
+</form>
+
+
+{% if generated_pq %}
+<div class="generated-box">
+    <p><strong>{{ selected }}</strong></p>
+    <p>{{ generated_pq }}</p>
+</div>
+{% else %}
+<div class="generated-box">
+    <p style="opacity: 50%;">No Generated Questions</p>
+</div>
+{% endif %}
+{% endblock %}

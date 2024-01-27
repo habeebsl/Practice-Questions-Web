@@ -1,0 +1,100 @@
+Define a solution in the context of biochemistry.
+Explain the terms solute and solvent.
+Discuss the difference between a homogeneous and a heterogeneous solution.
+What is the concentration of a solution, and how is it measured?
+Define osmosis and osmotic pressure.
+Explain the role of osmotic pressure in biological systems.
+How does osmotic pressure contribute to the movement of water across cell membranes?
+Discuss the importance of osmotic regulation in living organisms.
+Define an acid and a base according to the Brønsted-Lowry theory.
+Explain the concept of pH and its significance in biochemistry.
+What is the pH scale, and how is it related to the concentration of hydrogen ions?
+Discuss the importance of buffers in maintaining pH stability in biological systems.
+How does the bicarbonate buffer system operate in blood?
+Define the first law of thermodynamics.
+Explain the concept of internal energy.
+Discuss the relationship between heat, work, and internal energy in biological systems.
+What is enthalpy, and how is it related to heat transfer in chemical reactions?
+Define chemical kinetics.
+Explain the factors that influence the rate of a chemical reaction.
+What is the order of a reaction, and how is it determined experimentally?
+Discuss the significance of reaction rates in enzymatic reactions.
+Define organic chemistry in the context of biochemistry.
+Explain the importance of carbon in biological molecules.
+Discuss the types of organic reactions commonly found in biochemical processes.
+Provide an example of a condensation reaction in the synthesis of biomolecules.
+What is cell fractionation, and why is it used in biochemistry?
+Explain the principle behind centrifugation as a technique for separating cellular components.
+Discuss the different types of centrifugation and their applications in biochemistry.
+Define chromatography as an analytical technique.
+Explain the principle of partition chromatography.
+Discuss the applications of gas chromatography in biochemistry.
+What is gel electrophoresis, and how is it used to separate biomolecules?
+Explain the principles behind ion-exchange chromatography.
+Discuss the role of size exclusion chromatography in biomolecular separation.
+Define affinity chromatography and its applications in biochemistry.
+What is high-performance liquid chromatography (HPLC), and how is it used in biochemical analysis?
+Explain the importance of mass spectrometry in the identification of biomolecules.
+Discuss the principles of nuclear magnetic resonance (NMR) spectroscopy in biochemistry.
+Define the term isoelectric point in the context of protein chemistry.
+Discuss the importance of isoelectric focusing in protein separation.
+What is electrophoresis, and how is it used to analyze nucleic acids?
+Explain the principles of capillary electrophoresis in biomolecular separation.
+Discuss the applications of affinity electrophoresis in biochemistry.
+Define the terms absorbance and transmittance in spectrophotometry.
+Explain the Beer-Lambert Law and its application in biochemical analysis.
+Discuss the use of spectrophotometry in quantifying nucleic acids and proteins.
+What is the significance of enzyme-linked immunosorbent assay (ELISA) in biochemistry?
+Explain the principles of radioimmunoassay (RIA) and its applications.
+Discuss the use of Western blotting in the detection of specific proteins.
+Define fluorescence spectroscopy and its applications in biomolecular studies.
+What is circular dichroism, and how is it used to study protein secondary structure?
+Discuss the principles of X-ray crystallography in determining molecular structures.
+Define the terms primary, secondary, tertiary, and quaternary structure in protein chemistry.
+Explain the role of hydrogen bonding in maintaining protein structure.
+Discuss the importance of disulfide bonds in protein folding and stability.
+What is protein denaturation, and how does it affect biological activity?
+Define the term covalent modification in the context of enzyme regulation.
+Explain the concept of allosteric regulation of enzyme activity.
+Discuss the significance of feedback inhibition in metabolic pathways.
+What is the role of coenzymes and cofactors in enzymatic reactions?
+Define the terms Km and Vmax in enzyme kinetics.
+Explain the Lineweaver-Burk plot and its use in analyzing enzyme kinetics.
+Discuss the significance of the Michaelis-Menten equation in enzyme kinetics.
+Define the term competitive inhibition and provide an example.
+Discuss the mechanism of non-competitive inhibition in enzyme catalysis.
+What is reversible inhibition, and how does it differ from irreversible inhibition?
+Explain the role of proenzymes (zymogens) in enzymatic regulation.
+Discuss the importance of temperature and pH in enzyme activity.
+What is the significance of isozymes in the regulation of biochemical pathways?
+Define the term cooperativity and its relevance in enzyme function.
+Explain the role of prosthetic groups in the catalytic activity of enzymes.
+Discuss the concept of enzyme-substrate specificity.
+Define the terms holoenzyme and apoenzyme.
+What is enzyme catalysis, and how does it lower the activation energy of a reaction?
+Explain the role of metal ions in enzyme catalysis.
+Define the term zymogen and provide an example.
+Discuss the significance of proteolytic activation in enzyme regulation.
+What is the role of enzyme inhibitors in drug design and development?
+Define the term reversible inhibition and provide examples.
+Explain the concept of irreversible inhibition and its applications.
+Discuss the significance of suicide inhibitors in enzyme research.
+Define the term enzyme assay, and explain its importance in biochemistry.
+Discuss the principles of radioisotope labeling in enzyme assays.
+What is the purpose of enzyme kinetics studies in understanding biochemical reactions?
+Define the term allosteric enzyme and provide an example.
+Explain the concept of cooperative binding in allosteric enzymes.
+Discuss the role of positive and negative effectors in allosteric regulation.
+What is the significance of sigmoidal kinetics in enzyme-substrate binding?
+Define the term homotropic and heterotropic allosteric regulation.
+Explain the concept of conformational changes in allosteric enzymes.
+Discuss the importance of enzyme cooperativity in metabolic pathways.
+Define the term enzyme induction and provide examples.
+Discuss the role of transcriptional regulation in enzyme synthesis.
+What is the significance of enzyme repression in cellular metabolism?
+Explain the concept of enzyme feedback control in biochemical pathways.
+Discuss the role of covalent modification in enzyme regulation.
+What is the significance of post-translational modification in enzyme function?
+Define the term enzyme-substrate complex and its stability.
+Explain the process of enzyme catalysis in substrate transformation.
+Discuss the importance of enzyme specificity in biological reactions.

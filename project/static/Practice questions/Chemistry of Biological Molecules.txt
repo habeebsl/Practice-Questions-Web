@@ -1,0 +1,95 @@
+What is the general formula for a carbohydrate?
+Describe the difference between monosaccharides, disaccharides, and polysaccharides.
+Explain the structural difference between alpha and beta glucose.
+What is the function of glycogen in the human body?
+Discuss the role of cellulose in plant cell walls.
+Define glycosidic linkage and its importance in carbohydrate structure.
+What is the function of chitin in the exoskeleton of arthropods?
+Differentiate between saturated and unsaturated fatty acids.
+Explain the structure and function of triglycerides.
+What is the role of phospholipids in cell membranes?
+Describe the structure of steroids and provide an example.
+What is the function of lipoproteins in lipid transport?
+Discuss the significance of omega-3 fatty acids in human health.
+Define the primary structure of a protein.
+Explain the concept of protein folding and denaturation.
+What is the role of chaperone proteins in protein folding?
+Discuss the difference between globular and fibrous proteins.
+Describe the structure and function of enzymes.
+What is an active site in the context of enzyme function?
+Explain the Michaelis-Menten equation and its significance in enzyme kinetics.
+Define allosteric regulation of enzymes.
+Describe the structure of DNA and RNA.
+What is the role of DNA in genetic information storage?
+Explain the process of DNA replication.
+Discuss the significance of RNA in protein synthesis.
+Define transcription and translation in the context of gene expression.
+What is the genetic code, and how is it read during translation?
+Explain the function of tRNA in protein synthesis.
+How many amino acids are commonly found in proteins?
+Differentiate between essential and non-essential amino acids.
+Define the terms isoelectric point and zwitterion in amino acid chemistry.
+Discuss the formation of peptide bonds during protein synthesis.
+What is the significance of the N-terminus and C-terminus in a polypeptide chain?
+Explain the concept of Gibbs free energy and its relevance to biochemical reactions.
+What is the role of ATP in cellular energy transfer?
+Discuss the differences between aerobic and anaerobic metabolism.
+Define oxidative phosphorylation and explain its connection to the electron transport chain.
+Describe the process of glycolysis and its energy-yielding steps.
+Differentiate between catabolism and anabolism.
+Explain the role of the citric acid cycle in cellular respiration.
+What is the purpose of gluconeogenesis in metabolism?
+Describe the regulation of blood glucose levels by insulin and glucagon.
+Discuss the metabolic pathways involved in fatty acid synthesis.
+Explain the significance of the pentose phosphate pathway in metabolism.
+Define the role of the urea cycle in nitrogen metabolism.
+Discuss the mechanisms of enzyme inhibition.
+What is the difference between competitive and non-competitive inhibition?
+Describe the concept of feedback inhibition in enzyme regulation.
+Explain how allosteric enzymes are regulated.
+Define the terms coenzyme and cofactor.
+Discuss the importance of water-soluble and fat-soluble vitamins in human nutrition.
+What is the role of vitamin C (ascorbic acid) in the body?
+Describe the structure and function of G-proteins in cell signaling.
+What is the role of second messengers in intracellular signaling pathways?
+Explain the concept of receptor tyrosine kinases in cell communication.
+Define osmosis and explain its role in cellular transport.
+Discuss the difference between facilitated diffusion and active transport.
+What is the function of the sodium-potassium pump in cell membranes?
+Describe the process of oxidative phosphorylation in cellular respiration.
+What is the role of the electron transport chain in ATP production?
+Discuss the importance of the proton motive force in cellular respiration.
+Explain the overall process of photosynthesis in plant cells.
+Describe the structure and function of chloroplasts.
+What is the role of the Calvin cycle in photosynthesis?
+Define the stages of the cell cycle.
+Explain the process of mitosis and its significance in cell division.
+What is meiosis, and how does it differ from mitosis?
+Discuss the steps involved in DNA replication.
+What are the types of DNA repair mechanisms, and why are they important?
+Describe the process of translation in protein synthesis.
+What is the role of ribosomes in protein synthesis?
+Define the terms gene mutation and chromosomal mutation.
+Discuss the types of point mutations and their consequences.
+Explain the difference between endocrine and exocrine signaling.
+What are the functions of peptide hormones and steroid hormones?
+Describe the role of insulin in glucose homeostasis.
+Discuss the structure and function of the endoplasmic reticulum.
+What is the function of the Golgi apparatus in the cell?
+Describe the role of lysosomes in cellular digestion.
+What is the function of the cytoskeleton in cell structure and movement?
+Differentiate between aerobic and anaerobic respiration.
+Explain the process of lactic acid fermentation in cells.
+Describe the structure of the cell membrane.
+What is the fluid mosaic model, and how does it explain membrane dynamics?
+Discuss the concept of signal transduction in cellular communication.
+What is the role of protein kinases in signal transduction pathways?
+Explain the process of DNA transcription.
+Discuss the role of RNA polymerase in gene expression.
+Describe the biochemical basis of phenylketonuria (PKU).
+What is the metabolic consequence of a deficiency in glucose-6-phosphate dehydrogenase?
+Discuss the biochemistry of lactose intolerance.
+Define the polymerase chain reaction (PCR) and its applications in biochemistry.
+What is gel electrophoresis, and how is it used in DNA analysis?
+Explain the principles of chromatography in biochemical separation.
+Discuss the mechanism of action of enzyme inhibitors as therapeutic drugs.
